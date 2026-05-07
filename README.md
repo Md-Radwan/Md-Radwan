@@ -1,16 +1,42 @@
-## Hi there 👋
+# <!-- 🌊 Premium Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Md%20Radwan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
 
-<!--
-**Md-Radwan/Md-Radwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  
+## 👋 About Me  
+Hi! I'm **Md Radwan**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. I love turning ideas into functional interfaces and creating smooth user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,firebase,git,github,vscode,figma" />
+</div>
+
+---
+
+## 🔗 Connect With Me  
+<div align="center">
+
+<a href="https://www.linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="https://github.com/Md-Radwan">
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="mailto:redwanhosen4@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="https://www.facebook.com/dipto.hosen.redwan">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
+</a>
+
+</div>
+
+---
+
+<!-- 🌊 Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
